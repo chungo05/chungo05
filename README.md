@@ -4,7 +4,7 @@
 
 # Chung
 
-**Estudiante de Ingeniería de Software · Early-stage founder · Querétaro, México**
+### **Estudiante de Ingeniería de Software · Early-stage founder · Querétaro, México**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soychung/)
 [![UAQ](https://img.shields.io/badge/UAQ-Ing.%20Software-black?style=flat-square)]([https://uaq.mx](https://www.uaq.mx/informatica/sof.html))
@@ -51,7 +51,7 @@
 </a>
 </p>
   
-
+----
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
@@ -61,9 +61,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
 
 
 ---
