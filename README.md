@@ -62,6 +62,11 @@ Si estás haciendo algo interesante o quieres hablar de SaaS, producto o tecnolo
 
 ---
 
+## actividad
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?chungo05=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
 <div align="center">
 
 *Buscando mentes raras.*
