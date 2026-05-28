@@ -62,7 +62,7 @@ Si estás haciendo algo interesante o quieres hablar de SaaS, producto o tecnolo
 
 ---
 
-## actividad
+## Mi racha de Aura Coding
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chungo05&theme=github-compact&hide_border=true&title=chungo05%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/>
 ---
