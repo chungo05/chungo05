@@ -22,6 +22,7 @@
 
 <br>
 -->
+</div>
 <p align="center">  
 
  <a href="https://github.com/harish-sethuraman/readme-components">
@@ -96,18 +97,6 @@ La mayoría de los talleres medianos operan con Excel, papel y WhatsApp. Eso tie
 - Landing page de SaaS [Birlo](https://chungo05.github.io/landing-birlo/)
 ---
 
-## Stack
-
-```
-Frontend    →  Next.js 16 (App Router) + Tailwind CSS v4
-Backend     →  API Routes + Mongoose
-Auth        →  NextAuth v5
-DB          →  MongoDB Atlas
-Deploy      →  Vercel
-Prototipado →  v0.dev + Claude Design → codebase
-```
-
----
 
 ## Idiomas 🌐
 
@@ -126,18 +115,25 @@ Prototipado →  v0.dev + Claude Design → codebase
 - Diseñe y programe una webapp inmobiliaria tipo inmuebles24 [Verde Olivo](https://verde-olivo.vercel.app/es)
 ---
 
-## Lo que busco en GitHub
-
-No estoy aquí para acumular stars. Estoy aquí para documentar lo que construyo, aprender en público y eventualmente conectar con gente que también esté en modo constructor.
-
-Si estás haciendo algo interesante o quieres hablar de SaaS, producto o tecnología, búscame.
-
----
 
 ## Mi racha de Aura Coding
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chungo05&theme=github-compact&hide_border=true&title=chungo05%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/>
+
 ---
+
+## Hablemos  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" class="center-img" width="32" >](https://in.linkedin.com/in/SoyChung) 
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/masschungg/)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:massimochungcr@gmail.com)
+
+
+
+<br>
+<br>
+
 
 <div align="center">
 
