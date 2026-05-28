@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="#0a0a0a"/>
+
+  <!-- RING 1 -->
+  <g transform-origin="400 200">
+    <animateTransform attributeName="transform" type="scale" from="0.1" to="2.5" dur="3s" begin="0s" repeatCount="indefinite" additive="sum"/>
+    <animate attributeName="opacity" values="0;0.1;0.6;1;0.4;0" keyTimes="0;0.05;0.35;0.65;0.9;1" dur="3s" begin="0s" repeatCount="indefinite"/>
+    <text x="400" y="158" text-anchor="middle" font-family="Courier New, monospace" font-size="8" fill="#00ff41">. : . : . : . : . : . : . : .</text>
+    <text x="400" y="173" text-anchor="middle" font-family="Courier New, monospace" font-size="8" fill="#00ff41">:                             :</text>
+    <text x="400" y="188" text-anchor="middle" font-family="Courier New, monospace" font-size="8" fill="#00ff41">.                             .</text>
+    <text x="400" y="200" text-anchor="middle" font-family="Courier New, monospace" font-size="8" fill="#00ff41">: : : : : : : : : : : : : : : :</text>
+    <text x="400" y="212" text-anchor="middle" font-family="Courier New, monospace" font-size="8" fill="#00ff41">.                             .</text>
+    <text x="400" y="227" text-anchor="middle" font-family="Courier New, monospace" font-size="8" fill="#00ff41">:                             :</text>
+    <text x="400" y="242" text-anchor="middle" font-family="Courier New, monospace" font-size="8" fill="#00ff41">. : . : . : . : . : . : . : .</text>
+  </g>
+
+  <!-- RING 2 -->
+  <g transform-origin="400 200">
+    <animateTransform attributeName="transform" type="scale" from="0.1" to="2.5" dur="3s" begin="0.3s" repeatCount="indefinite" additive="sum"/>
+    <animate attributeName="opacity" values="0;0.1;0.6;1;0.4;0" keyTimes="0;0.05;0.35;0.65;0.9;1" dur="3s" begin="0.3s" repeatCount="indefinite"/>
+    <text x="400" y="155" text-anchor="middle" font-family="Courier New, monospace" font-size="9" fill="#00dd38">+ - + - + - + - + - + - + - +</text>
+    <text x="400" y="170" text-anchor="middle" font-family="Courier New, monospace" font-size="9" fill="#00dd38">|                             |</text>
+    <text x="400" y="185" text-anchor="middle" font-family="Courier New, monospace" font-size="9" fill="#00dd38">-                             -</text>
+    <text x="400" y="200" text-anchor="middle" font-family="Courier New, monospace" font-size="9" fill="#00dd38">+ - + - + - + - + - + - + - +</text>
+    <text x="400" y="215" text-anchor="middle" font-family="Courier New, monospace" font-size="9" fill="#00dd38">-                             -</text>
+    <text x="400" y="230" text-anchor="middle" font-family="Courier New, monospace" font-size="9" fill="#00dd38">|                             |</text>
+    <text x="400" y="245" text-anchor="middle" font-family="Courier New, monospace" font-size="9" fill="#00dd38">+ - + - + - + - + - + - + - +</text>
+  </g>
+
+  <!-- RING 3 -->
+  <g transform-origin="400 200">
+    <animateTransform attributeName="transform" type="scale" from="0.1" to="2.5" dur="3s" begin="0.6s" repeatCount="indefinite" additive="sum"/>
+    <animate attributeName="opacity" values="0;0.1;0.6;1;0.4;0" keyTimes="0;0.05;0.35;0.65;0.9;1" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+    <text x="400" y="150" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#00cc32">* = * = * = * = * = * = * = *</text>
+    <text x="400" y="167" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#00cc32">|                             |</text>
+    <text x="400" y="184" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#00cc32">=                             =</text>
+    <text x="400" y="200" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#00cc32">* = * = * = * = * = * = * = *</text>
+    <text x="400" y="216" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#00cc32">=                             =</text>
+    <text x="400" y="233" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#00cc32">|                             |</text>
+    <text x="400" y="250" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#00cc32">* = * = * = * = * = * = * = *</text>
+  </g>
+
+  <!-- RING 4 -->
+  <g transform-origin="400 200">
+    <animateTransform attributeName="transform" type="scale" from="0.1" to="2.5" dur="3s" begin="0.9s" repeatCount="indefinite" additive="sum"/>
+    <animate attributeName="opacity" values="0;0.1;0.6;1;0.4;0" keyTimes="0;0.05;0.35;0.65;0.9;1" dur="3s" begin="0.9s" repeatCount="indefinite"/>
+    <text x="400" y="145" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#00bb2e">/ \ / \ / \ / \ / \ / \ / \ /</text>
+    <text x="400" y="164" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#00bb2e">\                             \</text>
+    <text x="400" y="182" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#00bb2e">/                             /</text>
+    <text x="400" y="200" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#00bb2e">\ / \ / \ / \ / \ / \ / \ / \</text>
+    <text x="400" y="218" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#00bb2e">/                             /</text>
+    <text x="400" y="236" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#00bb2e">\                             \</text>
+    <text x="400" y="255" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#00bb2e">/ \ / \ / \ / \ / \ / \ / \ /</text>
+  </g>
+
+  <!-- RING 5 -->
+  <g transform-origin="400 200">
+    <animateTransform attributeName="transform" type="scale" from="0.1" to="2.5" dur="3s" begin="1.2s" repeatCount="indefinite" additive="sum"/>
+    <animate attributeName="opacity" values="0;0.1;0.6;1;0.4;0" keyTimes="0;0.05;0.35;0.65;0.9;1" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+    <text x="400" y="140" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#00aa2a">[ # [ # [ # [ # [ # [ # [ # [</text>
+    <text x="400" y="160" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#00aa2a">#                             #</text>
+    <text x="400" y="180" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#00aa2a">[                             ]</text>
+    <text x="400" y="200" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#00aa2a"># [ # [ # [ # [ # [ # [ # [ #</text>
+    <text x="400" y="220" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#00aa2a">[                             ]</text>
+    <text x="400" y="240" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#00aa2a">#                             #</text>
+    <text x="400" y="260" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#00aa2a">[ # [ # [ # [ # [ # [ # [ # [</text>
+  </g>
+
+  <!-- RING 6 -->
+  <g transform-origin="400 200">
+    <animateTransform attributeName="transform" type="scale" from="0.1" to="2.5" dur="3s" begin="1.5s" repeatCount="indefinite" additive="sum"/>
+    <animate attributeName="opacity" values="0;0.1;0.6;1;0.4;0" keyTimes="0;0.05;0.35;0.65;0.9;1" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    <text x="400" y="134" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#33ff66">{ @ { @ { @ { @ { @ { @ { @ {</text>
+    <text x="400" y="156" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#33ff66">@                             @</text>
+    <text x="400" y="178" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#33ff66">{                             }</text>
+    <text x="400" y="200" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#33ff66">} @ } @ } @ } @ } @ } @ } @ }</text>
+    <text x="400" y="222" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#33ff66">{                             }</text>
+    <text x="400" y="244" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#33ff66">@                             @</text>
+    <text x="400" y="266" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#33ff66">{ @ { @ { @ { @ { @ { @ { @ {</text>
+  </g>
+
+  <!-- RING 7 -->
+  <g transform-origin="400 200">
+    <animateTransform attributeName="transform" type="scale" from="0.1" to="2.5" dur="3s" begin="1.8s" repeatCount="indefinite" additive="sum"/>
+    <animate attributeName="opacity" values="0;0.1;0.6;1;0.4;0" keyTimes="0;0.05;0.35;0.65;0.9;1" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+    <text x="400" y="128" text-anchor="middle" font-family="Courier New, monospace" font-size="14" fill="#66ff88">| % | % | % | % | % | % | % |</text>
+    <text x="400" y="152" text-anchor="middle" font-family="Courier New, monospace" font-size="14" fill="#66ff88">%                             %</text>
+    <text x="400" y="176" text-anchor="middle" font-family="Courier New, monospace" font-size="14" fill="#66ff88">|                             |</text>
+    <text x="400" y="200" text-anchor="middle" font-family="Courier New, monospace" font-size="14" fill="#66ff88">% | % | % | % | % | % | % | %</text>
+    <text x="400" y="224" text-anchor="middle" font-family="Courier New, monospace" font-size="14" fill="#66ff88">|                             |</text>
+    <text x="400" y="248" text-anchor="middle" font-family="Courier New, monospace" font-size="14" fill="#66ff88">%                             %</text>
+    <text x="400" y="272" text-anchor="middle" font-family="Courier New, monospace" font-size="14" fill="#66ff88">| % | % | % | % | % | % | % |</text>
+  </g>
+
+  <!-- RING 8 -->
+  <g transform-origin="400 200">
+    <animateTransform attributeName="transform" type="scale" from="0.1" to="2.5" dur="3s" begin="2.1s" repeatCount="indefinite" additive="sum"/>
+    <animate attributeName="opacity" values="0;0.1;0.6;1;0.4;0" keyTimes="0;0.05;0.35;0.65;0.9;1" dur="3s" begin="2.1s" repeatCount="indefinite"/>
+    <text x="400" y="120" text-anchor="middle" font-family="Courier New, monospace" font-size="15" fill="#99ffaa">$ # $ # $ # $ # $ # $ # $ # $</text>
+    <text x="400" y="147" text-anchor="middle" font-family="Courier New, monospace" font-size="15" fill="#99ffaa">#                             #</text>
+    <text x="400" y="174" text-anchor="middle" font-family="Courier New, monospace" font-size="15" fill="#99ffaa">$                             $</text>
+    <text x="400" y="200" text-anchor="middle" font-family="Courier New, monospace" font-size="15" fill="#99ffaa"># $ # $ # $ # $ # $ # $ # $ #</text>
+    <text x="400" y="226" text-anchor="middle" font-family="Courier New, monospace" font-size="15" fill="#99ffaa">$                             $</text>
+    <text x="400" y="253" text-anchor="middle" font-family="Courier New, monospace" font-size="15" fill="#99ffaa">#                             #</text>
+    <text x="400" y="280" text-anchor="middle" font-family="Courier New, monospace" font-size="15" fill="#99ffaa">$ # $ # $ # $ # $ # $ # $ # $</text>
+  </g>
+
+  <!-- RING 9 -->
+  <g transform-origin="400 200">
+    <animateTransform attributeName="transform" type="scale" from="0.1" to="2.5" dur="3s" begin="2.4s" repeatCount="indefinite" additive="sum"/>
+    <animate attributeName="opacity" values="0;0.1;0.6;1;0.4;0" keyTimes="0;0.05;0.35;0.65;0.9;1" dur="3s" begin="2.4s" repeatCount="indefinite"/>
+    <text x="400" y="112" text-anchor="middle" font-family="Courier New, monospace" font-size="16" fill="#ccffdd">@ @ @ @ @ @ @ @ @ @ @ @ @ @ @</text>
+    <text x="400" y="141" text-anchor="middle" font-family="Courier New, monospace" font-size="16" fill="#ccffdd">@                             @</text>
+    <text x="400" y="170" text-anchor="middle" font-family="Courier New, monospace" font-size="16" fill="#ccffdd">@                             @</text>
+    <text x="400" y="200" text-anchor="middle" font-family="Courier New, monospace" font-size="16" fill="#ccffdd">@ @ @ @ @ @ @ @ @ @ @ @ @ @ @</text>
+    <text x="400" y="230" text-anchor="middle" font-family="Courier New, monospace" font-size="16" fill="#ccffdd">@                             @</text>
+    <text x="400" y="259" text-anchor="middle" font-family="Courier New, monospace" font-size="16" fill="#ccffdd">@                             @</text>
+    <text x="400" y="288" text-anchor="middle" font-family="Courier New, monospace" font-size="16" fill="#ccffdd">@ @ @ @ @ @ @ @ @ @ @ @ @ @ @</text>
+  </g>
+
+  <!-- RING 10 -->
+  <g transform-origin="400 200">
+    <animateTransform attributeName="transform" type="scale" from="0.1" to="2.5" dur="3s" begin="2.7s" repeatCount="indefinite" additive="sum"/>
+    <animate attributeName="opacity" values="0;0.1;0.6;1;0.4;0" keyTimes="0;0.05;0.35;0.65;0.9;1" dur="3s" begin="2.7s" repeatCount="indefinite"/>
+    <text x="400" y="104" text-anchor="middle" font-family="Courier New, monospace" font-size="17" fill="#ffffff">* * * * * * * * * * * * * * *</text>
+    <text x="400" y="135" text-anchor="middle" font-family="Courier New, monospace" font-size="17" fill="#ffffff">*                             *</text>
+    <text x="400" y="167" text-anchor="middle" font-family="Courier New, monospace" font-size="17" fill="#ffffff">*                             *</text>
+    <text x="400" y="200" text-anchor="middle" font-family="Courier New, monospace" font-size="17" fill="#ffffff">* * * * * * * * * * * * * * *</text>
+    <text x="400" y="233" text-anchor="middle" font-family="Courier New, monospace" font-size="17" fill="#ffffff">*                             *</text>
+    <text x="400" y="265" text-anchor="middle" font-family="Courier New, monospace" font-size="17" fill="#ffffff">*                             *</text>
+    <text x="400" y="296" text-anchor="middle" font-family="Courier New, monospace" font-size="17" fill="#ffffff">* * * * * * * * * * * * * * *</text>
+  </g>
+
+  <!-- crosshair -->
+  <line x1="390" y1="200" x2="410" y2="200" stroke="#00ff41" stroke-width="1" opacity="0.7">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="400" y1="190" x2="400" y2="210" stroke="#00ff41" stroke-width="1" opacity="0.7">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="400" cy="200" r="3" fill="none" stroke="#00ff41" stroke-width="0.8">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+</svg>
