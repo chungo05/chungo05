@@ -2,16 +2,26 @@
 
 ![tunnel](https://raw.githubusercontent.com/chungo05/chungo05/main/tunnel.gif)
 
-# Chung
+# Chung <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### **Estudiante de Ingeniería de Software · Early-stage founder · Querétaro, México**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soychung/)
 
 
-</div>
 
 
+<!-- <a href="https://www.linkedin.com/in/soychung/"> 
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="30px">
+</a>
+
+<a href="mailto:massimochungcr@gmail.com">
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="30px">
+</a>
+ 
+
+
+<br>
+-->
 <p align="center">  
 
  <a href="https://github.com/harish-sethuraman/readme-components">
@@ -66,7 +76,7 @@
 
 ---
 
-## Quién soy
+##  Hola ¿Quién soy? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 Estudiante de Ingeniería de Software en la UAQ, construyendo cosas reales mientras aprendo. No me interesa el mundo corporativo por ahora  — me interesa crear, destruir, experimentar, conectar con gente genuina y hacer cosas interesantes.
 
@@ -74,7 +84,7 @@ Actualmente en los primeros pasos de mi primer SaaS.
 
 ---
 
-## Lo que estoy construyendo
+## Lo que estoy construyendo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="24px">
 
 **Birlo** — SaaS de gestión para talleres mecánicos en México.
 
@@ -96,6 +106,15 @@ DB          →  MongoDB Atlas
 Deploy      →  Vercel
 Prototipado →  v0.dev + Claude Design → codebase
 ```
+
+---
+
+## Idiomas 🌐
+
+| Language      | Proficiency                                                                                                |
+| ------------- | --------------------------------------------------------------------------------------------------------   |
+| Español (duh) | C2                                                                                                         |
+| Inglés        | C1 [EFSET CERTIFICATE](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html](https://cert.efset.org/HNnFXX)) |
 
 ---
 
