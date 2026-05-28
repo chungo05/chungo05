@@ -30,7 +30,7 @@ La mayoría de los talleres medianos operan con Excel, papel y WhatsApp. Eso tie
 - Stack: `Next.js` · `React` · `Tailwind CSS` · `MongoDB Atlas` · `NextAuth` · `Vercel`
 - Cliente piloto activo: **Automotriz Performance**, Juriquilla, Querétaro
 - Metodología: sprints semanales, validación constante con el cliente
-- Landing page [!Birlo](https://chungo05.github.io/landing-birlo/)
+- Landing page de SaaS [Birlo](https://chungo05.github.io/landing-birlo/)
 ---
 
 ## Stack
@@ -50,8 +50,8 @@ Prototipado →  v0.dev + Claude Design → codebase
 
 - Me pusieron como **proyecto destacado** en el cierre del evento inmsersivo de alura + oracle (fui solo al día 1 de 4)
 - Linux evangelist no oficial de mi facultad (i use arch btw)
-- Participe en mi **primer hackathon presencial** con @Hacka-Group y hicimos [!okdoc](https://devpost.com/software/okdoc)
-- Diseñe y programe una webapp inmobiliaria tipo inmuebles24 [!Verde Olivo](https://verde-olivo.vercel.app/es)
+- Participe en mi **primer hackathon presencial** con @Hacka-Group e hicimos [okdoc](https://devpost.com/software/okdoc)
+- Diseñe y programe una webapp inmobiliaria tipo inmuebles24 [Verde Olivo](https://verde-olivo.vercel.app/es)
 ---
 
 ## Lo que busco en GitHub
