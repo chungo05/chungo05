@@ -57,6 +57,12 @@
 </div>
 
 
+---
+
+<details>
+<summary>
+  Conoce mas sobre mi.
+</summary>
 
 ---
 
@@ -119,3 +125,5 @@ Si estás haciendo algo interesante o quieres hablar de SaaS, producto o tecnolo
 *Buscando mentes raras.*
 
 </div>
+
+</details>
