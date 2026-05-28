@@ -64,7 +64,7 @@ Si estás haciendo algo interesante o quieres hablar de SaaS, producto o tecnolo
 
 ## actividad
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?chungo05=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chungo05&theme=github-compact&hide_border=true&title=chungo05%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/>
 ---
 
 <div align="center">
