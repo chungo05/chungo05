@@ -23,7 +23,7 @@ Actualmente en los primeros pasos de mi primer SaaS.
 
 ## Lo que estoy construyendo
 
-**Taller OS** — SaaS de gestión para talleres mecánicos en México.
+**Birlo** — SaaS de gestión para talleres mecánicos en México.
 
 La mayoría de los talleres medianos operan con Excel, papel y WhatsApp. Eso tiene consecuencias: cotizaciones que exponen márgenes, sin historial digital, sin imagen profesional. Lo estoy resolviendo.
 
@@ -48,9 +48,7 @@ Prototipado →  v0.dev → codebase
 
 ## Cosas que me han pasado
 
-- Construí un agente de RH con RAG y embeddings en n8n durante una inmersión de Alura
-- Me pusieron como **proyecto destacado** en el cierre del evento (fui solo al día 1 de 4)
-- Le mandé un mensaje al CEO de Alura con una propuesta de programa de embajadores universitarios
+- Me pusieron como **proyecto destacado** en el cierre del evento inmsersivo de alura + oracle (fui solo al día 1 de 4)
 - Linux evangelist no oficial de mi facultad
 
 ---
