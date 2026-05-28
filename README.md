@@ -1,6 +1,6 @@
 <div align="center">
 
-![tunnel](https://media.giphy.com/media/4GWgNkOcQeubVjoc5P/giphy.gif)
+![tunnel](https://raw.githubusercontent.com/tu-usuario/tu-usuario/main/tunnel.svg)
 
 # Chung
 
