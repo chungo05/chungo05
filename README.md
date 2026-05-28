@@ -1,6 +1,6 @@
 <div align="center">
 
-![tunnel](https://raw.githubusercontent.com/tu-usuario/tu-usuario/main/tunnel.svg)
+![tunnel](https://raw.githubusercontent.com/chungo05/chungo05/main/tunnel.svg)
 
 # Chung
 
