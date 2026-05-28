@@ -6,8 +6,8 @@
 
 **Estudiante de Ingeniería de Software · Early-stage founder · Querétaro, México**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![UAQ](https://img.shields.io/badge/UAQ-Ing.%20Software-black?style=flat-square)](https://uaq.mx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soychung/)
+[![UAQ](https://img.shields.io/badge/UAQ-Ing.%20Software-black?style=flat-square)]([https://uaq.mx](https://www.uaq.mx/informatica/sof.html))
 
 </div>
 
