@@ -2,7 +2,7 @@
 
 ![tunnel](https://raw.githubusercontent.com/chungo05/chungo05/main/tunnel.gif)
 
-# Chung <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# Chung <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px">
 
 ### **Estudiante de Ingeniería de Software · SaaS Founder· Querétaro, México**
 
