@@ -57,10 +57,10 @@
 
 
 <details>
-<summary>
-  Conoce mas sobre mi.
+<summary align="center" style="font-size: 24px">
+    Conoce mas sobre mi. 
 </summary>
-
+</p>
 ---
 
 ##  Hola ¿Quién soy? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
@@ -106,14 +106,14 @@ La mayoría de los talleres medianos operan con Excel, papel y WhatsApp. Eso tie
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chungo05&theme=github-compact&hide_border=true&title=chungo05%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/>
 
----
+
 
 ## Hablemos  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" class="center-img" width="32" >](https://in.linkedin.com/in/SoyChung) 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/masschungg/)
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:massimochungcr@gmail.com)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" class="center-img" width="52" >](https://in.linkedin.com/in/SoyChung) 
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="52">](https://www.instagram.com/masschungg/)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="52">](mailto:massimochungcr@gmail.com)
 
 
 
