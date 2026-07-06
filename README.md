@@ -29,7 +29,7 @@
 
 
 
-   <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&animation&svgfill=2d79c7">
 </a>
 
@@ -54,14 +54,7 @@
 
 </p>
   
-----
 
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=chungo05"/>
-</div>
-
-
----
 
 <details>
 <summary>
@@ -72,20 +65,20 @@
 
 ##  Hola ¿Quién soy? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Estudiante de Ingeniería de Software en la UAQ, construyendo cosas reales mientras aprendo. No me interesa el mundo corporativo por ahora  — me interesa crear, destruir, experimentar, conectar con gente genuina y hacer cosas interesantes.
+Estudiante de Ingeniería de Software en la UAQ, construyendo cosas reales mientras aprendo. me interesa crear, destruir, experimentar, conectar con gente genuina y hacer cosas interesantes.
 
-Actualmente en los primeros pasos de mi primer SaaS.
+Actualmente en los primeros pasos de mi primer SaaS 'Soy Birlo'.
 
 ---
 
 ## Lo que estoy construyendo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="24px">
 
-**Birlo** — SaaS de gestión para talleres mecánicos en México.
+**Soy Birlo** — SaaS de gestión para talleres mecánicos en México.
 
 La mayoría de los talleres medianos operan con Excel, papel y WhatsApp. Eso tiene consecuencias: cotizaciones que exponen márgenes, sin historial digital, sin imagen profesional. Lo estoy resolviendo.
 
 - Stack: `Next.js` · `React` · `Tailwind CSS` · `MongoDB Atlas` · `NextAuth` · `Vercel`
-- Cliente piloto activo: **Automotriz Performance**, Juriquilla, Querétaro
+- Cliente piloto activo: **Automotriz Performance**, Querétaro.
 - Metodología: sprints semanales, validación constante con el cliente
 - Landing page de SaaS [Birlo](https://chungo05.github.io/landing-birlo/)
 ---
