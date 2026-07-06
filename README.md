@@ -4,7 +4,7 @@
 
 # Chung <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### **Estudiante de Ingeniería de Software · Early-stage founder · Querétaro, México**
+### **Estudiante de Ingeniería de Software · SaaS Founder· Querétaro, México**
 
 
 
