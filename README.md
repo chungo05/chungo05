@@ -89,7 +89,7 @@ La mayoría de los talleres medianos operan con Excel, papel y WhatsApp. Eso tie
 | Language      | Proficiency                                                                                                |
 | ------------- | --------------------------------------------------------------------------------------------------------   |
 | Español (duh) | C2                                                                                                         |
-| Inglés        | C1 [EFSET CERTIFICATE](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html](https://cert.efset.org/HNnFXX)) |
+| Inglés        | C1 [EFSET CERTIFICATE](https://cert.efset.org/HNnFXX)) |
 
 ---
 
