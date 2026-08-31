@@ -97,8 +97,8 @@ La mayoría de los talleres medianos operan con Excel, papel y WhatsApp. Eso tie
 
 - Participe en el **hackathon de Google Cloud** con [lote | trackeo de protestas de cdmx](https://devpost.com/software/lote-real-time-street-safety-agent-for-cdmx)
 - Linux evangelist no oficial de mi facultad (i use arch btw).
-- Tengo un SaaS para talleres mecanicos producción desde junio de 2026 [birlo](birlo.mx).
-- Diseñe y programe una webapp inmobiliaria tipo inmuebles24 totalmente funcional [Verde Olivo](https://verde-olivo.vercel.app/es)
+- Tengo un SaaS para talleres mecanicos producción desde junio de 2026 [birlo](https://birlo.mx).
+- Diseñe y programe una webapp inmobiliaria tipo inmuebles24 totalmente funcional [Verde Olivo](https://github.com/chungo05/verde-olivo)
 ---
 
 
