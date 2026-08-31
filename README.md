@@ -95,10 +95,10 @@ La mayoría de los talleres medianos operan con Excel, papel y WhatsApp. Eso tie
 
 ## Cosas que me han pasado
 
-- Me pusieron como **proyecto destacado** en el cierre del evento inmsersivo de alura + oracle (fui solo al día 1 de 4)
-- Linux evangelist no oficial de mi facultad (i use arch btw)
-- Participe en mi **primer hackathon presencial** con @Hacka-Group e hicimos [okdoc](https://devpost.com/software/okdoc)
-- Diseñe y programe una webapp inmobiliaria tipo inmuebles24 [Verde Olivo](https://verde-olivo.vercel.app/es)
+- Participe en el **hackathon de Google Cloud** con [lote | trackeo de protestas de cdmx](https://devpost.com/software/lote-real-time-street-safety-agent-for-cdmx)
+- Linux evangelist no oficial de mi facultad (i use arch btw).
+- Tengo un SaaS para talleres mecanicos producción desde junio de 2026 [birlo](birlo.mx).
+- Diseñe y programe una webapp inmobiliaria tipo inmuebles24 totalmente funcional [Verde Olivo](https://verde-olivo.vercel.app/es)
 ---
 
 
